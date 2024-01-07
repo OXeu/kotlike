@@ -2,6 +2,22 @@
 name = "kotlike"
 version = "0.1.0"
 edition = "2021"
+authors = ["Xeu <i@xeu.life>"]
+categories = ["development-tools::build-utils"]
+description = "A Rust macro to modify the question mark operator's behavior just like Kotlin's"
+documentation = "https://docs.rs/kotlike"
+include = [
+    "/benches/**",
+    "/Cargo.toml",
+    "/LICENSE",
+    "/README.md",
+    "/src/**",
+    "/tests/**",
+]
+keywords = ["macros", "kotlin", "sugar"]
+license = "Apache-2.0"
+repository = "https://github.com/ThankRain/kotlike"
+rust-version = "1.70.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
