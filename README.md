@@ -1,7 +1,7 @@
-<div style="text-align: center;">
-<h1>Kotlike</h1>
-A Rust macro to modify the question mark operator's behavior just like Kotlin's
-</div>
+<h1 align="center">Kotlike</h1>
+<h6 align="center">A Rust macro to modify the question mark operator's behavior just like Kotlin's</h6>
+<br/>
+
 
 With it, you can easily pick out the value wrapped in numberless `Option<T>` and `Result<T,Err>`.
 
